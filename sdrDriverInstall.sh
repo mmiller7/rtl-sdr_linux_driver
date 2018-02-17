@@ -76,5 +76,5 @@ make install
 
 echo "Done."
 echo ""
-echo "NOTE: For changes to take effect you should reboot your system.
+echo "NOTE: For changes to take effect you should reboot your system."
 echo ""
